@@ -8,12 +8,12 @@ Construo e mantenho sistemas que rodam a operação de empresas: ERP, e-commerce
 
 ## O que já coloquei em produção
 
-- **ERP multi-tenant** em Laravel 12 e PostgreSQL 16, com um banco por empresa, estoque, faturamento, financeiro e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
+- **ERP multi-tenant** em Laravel 12 e PostgreSQL 16, com um banco por empresa: 108 telas, mais de 2,3 mil clientes cadastrados e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
+- **Loja online integrada ao ERP do cliente**: 3,6 mil pedidos em 10 meses, de 117 no primeiro mês para mais de 400 por mês, com assistente de vendas por IA.
 - **Plataforma de e-commerce multiloja** em NestJS, Next.js e Astro, com Pix, webhooks idempotentes, isolamento de dados por loja coberto por testes e deploy contínuo com imagens Docker multi-arquitetura.
-- **Sistema unificado e ouvidoria interna** de uma instituição de ensino em Laravel 13 e React 19, integrados ao **TOTVS Protheus**, com retenção e anonimização de dados pela LGPD.
-- **Quadro de trabalho com agentes de IA**: RAG com busca híbrida (vetor e texto), servidor MCP, abertura automática de pull request e auditoria de cada execução.
-- **Apps em React Native/Expo**, incluindo um offline-first para pesquisa de campo no agronegócio.
-- **Integrações** com SAP Business One, TOTVS Protheus, WhatsApp, Pix (PagBank, Woovi) e D4Sign.
+- **Ferramentas com IA aplicada**: agentes, RAG com busca híbrida (vetor e texto), servidores MCP e auditoria de cada execução.
+- **Apps em React Native/Expo**, com scanner de documentos, entrada por voz e modo offline.
+- **Integrações** com ERPs (Oracle, SAP Business One), WhatsApp, Pix (PagBank, Woovi) e D4Sign.
 
 Esses sistemas são de clientes e empregadores, por isso o código fica em repositórios privados.
 
