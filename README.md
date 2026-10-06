@@ -11,6 +11,7 @@ Construo e mantenho sistemas que rodam a operação de empresas: ERP, e-commerce
 - **ERP multi-tenant** criado do zero em Laravel 12 e PostgreSQL 16, com um banco por empresa e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
 - **Loja online que construí e opero sozinho**, integrada ao ERP do cliente: 3,6 mil pedidos em 10 meses, de 117 no primeiro mês para mais de 400 por mês, com assistente de vendas por IA.
 - **Plataforma de e-commerce multiloja** em NestJS, Next.js e Astro, com Pix, webhooks idempotentes, isolamento de dados por loja coberto por testes e deploy contínuo com imagens Docker multi-arquitetura.
+- **Canal de ouvidoria e denúncias** (Lei 14.457/2022) com relato anônimo por protocolo e senha, prazos em dias úteis, perfis de acesso e anonimização pela LGPD, e análise por IA que confronta o PGR (NR-1) com os dados reais da empresa.
 - **Ferramentas com IA aplicada**: agentes, RAG com busca híbrida (vetor e texto), servidores MCP e auditoria de cada execução.
 - **Apps em React Native/Expo** para clientes e para entregadores em campo, com localização em tempo real e funcionamento sem internet.
 - **Integrações** com ERPs (TOTVS Protheus, SAP Business One, Bling), pagamentos (Pix, Asaas, Cielo, Rede, PagBank com split), frete (Melhor Envio, Correios), marketplaces (Mercado Livre, Shopee), WhatsApp e LLMs (OpenAI, Anthropic).
