@@ -1,98 +1,40 @@
-<h1 align="left">Olá, eu sou Hugo Adriano de Oliveira 🇧🇷 💻</h1>
+# Hugo Adriano de Oliveira
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Engenheiro%20de%20Software-1f2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-1f2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/.NET%20%7C%20Node%20%7C%20Laravel-1f2937?style=flat-square" />
-</p>
+Desenvolvedor Full Stack Sênior · PHP/Laravel · React · TypeScript · Node.js · PostgreSQL
 
-Engenheiro de Software & Desenvolvedor Full Stack com 4 anos de experiência transformando desafios complexos em software de alto impacto. Especialista no ecossistema **.NET** e em arquiteturas modernas distribuídas. Fundador da **Pingfy**, plataforma SaaS de CRM com dashboards em tempo real e integração com IA.
+Construo e mantenho sistemas que rodam a operação de empresas: ERP, e-commerce, sistemas acadêmicos e plataformas de atendimento. Moro em Rondonópolis (MT) e trabalho remoto.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hugo-oliveira-07b46321b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hugoadrianodeoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/hugo-oliveira-07b46321b/) · [E-mail](mailto:hugoadrianodeoliveira@gmail.com)
 
----
+## O que já coloquei em produção
 
-## 🚀 Sobre Mim
+- **ERP multi-tenant** em Laravel 12 e PostgreSQL 16, com um banco por empresa, estoque, faturamento, financeiro e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
+- **Plataforma de e-commerce multiloja** em NestJS, Next.js e Astro, com Pix, webhooks idempotentes, isolamento de dados por loja coberto por testes e deploy contínuo com imagens Docker multi-arquitetura.
+- **Sistema unificado e ouvidoria interna** de uma instituição de ensino em Laravel 13 e React 19, integrados ao **TOTVS Protheus**, com retenção e anonimização de dados pela LGPD.
+- **Quadro de trabalho com agentes de IA**: RAG com busca híbrida (vetor e texto), servidor MCP, abertura automática de pull request e auditoria de cada execução.
+- **Apps em React Native/Expo**, incluindo um offline-first para pesquisa de campo no agronegócio.
+- **Integrações** com SAP Business One, TOTVS Protheus, WhatsApp, Pix (PagBank, Woovi) e D4Sign.
 
-- 🎓 **Formação:** Prestes a me formar em Sistemas de Informação na Universidade Federal de Rondonópolis.
-- 💼 **Atuação:** Desenvolvimento Backend e Arquitetura de Software (Clean Architecture, CQRS, Hexagonal).
-- 🏆 **Empreendedorismo:** Fundador da **Pingfy** — SaaS de CRM com dashboards em tempo real e IA.
-- 🌱 **Sempre aprendendo:** sistemas distribuídos, mensageria e cloud.
+Esses sistemas são de clientes e empregadores, por isso o código fica em repositórios privados.
 
----
+## Stack
 
-## 🛠️ Linguagens e Tecnologias
+| Área | Tecnologias |
+|---|---|
+| Back-end | PHP 8, Laravel, Livewire, Node.js, NestJS, Fastify, Express |
+| Front-end | React, Next.js, Inertia.js, TypeScript, Tailwind CSS, Astro |
+| Mobile | React Native, Expo |
+| Dados | PostgreSQL, SQL Server, MySQL, Redis, BullMQ |
+| Qualidade | PHPUnit, Pest, PHPStan, Jest, Vitest, Playwright |
+| Infra | Docker, GitHub Actions, Nginx, Linux, AWS |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,php,laravel,rabbitmq,react,reactnative,nextjs,ts,tailwind,docker,kubernetes,aws,postgres,git&perline=8" />
-</p>
+## Projetos públicos
 
-### Backend & Arquitetura
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=OwlHugo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwlHugo&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwlHugo&theme=midnight-purple&hide_border=true&background=0d1117" />
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
+| Projeto | O que é | Stack |
 |---|---|---|
-| [real-time-auction](https://github.com/OwlHugo/real-time-auction) | Sistema de leilões em tempo real | Node · WebSocket |
-| [erp-multitenant](https://github.com/OwlHugo/erp-multitenant) | ERP multi-tenant escalável (1000+ empresas) | PHP · Laravel |
-| [templeteNestAuditoriaMicroservice](https://github.com/OwlHugo/templeteNestAuditoriaMicroservice) | Auditoria event-driven com microsserviços | NestJS · TypeORM · RabbitMQ |
-| [quest-engine](https://github.com/OwlHugo/quest-engine) | Engine de quests / gamificação | TypeScript |
-| [GoAPI](https://github.com/OwlHugo/GoAPI) | API de produtos por categorias | Go |
+| [real-time-auction](https://github.com/OwlHugo/real-time-auction) | Leilão em tempo real com lances concorrentes, controle otimista de concorrência, idempotência e encerramento assíncrono | .NET, SignalR, RabbitMQ, PostgreSQL, Angular |
+| [pokerogue-tier-overlay](https://github.com/OwlHugo/pokerogue-tier-overlay) | Extensão que mostra dentro do jogo o melhor tier competitivo de cada Pokémon, com testes e CI | TypeScript, Vitest |
 
----
+## Formação
 
-## 📫 Vamos conectar?
-
-Sempre aberto a novos desafios (presenciais ou remotos) e colaborações em projetos globais.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hugo-oliveira-07b46321b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hugoadrianodeoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=OwlHugo&style=flat-square&color=blueviolet" alt="profile views" />
+Sistemas de Informação na Universidade Federal de Rondonópolis (UFR), em andamento.
