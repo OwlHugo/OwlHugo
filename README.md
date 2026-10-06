@@ -8,7 +8,7 @@ Construo e mantenho sistemas que rodam a operação de empresas: ERP, e-commerce
 
 ## O que já coloquei em produção
 
-- **ERP multi-tenant** em Laravel 12 e PostgreSQL 16, com um banco por empresa: 108 telas, mais de 2,3 mil clientes cadastrados e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
+- **ERP multi-tenant** em Laravel 12 e PostgreSQL 16, com um banco por empresa: 108 telas, 103 casos de uso e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
 - **Loja online integrada ao ERP do cliente**: 3,6 mil pedidos em 10 meses, de 117 no primeiro mês para mais de 400 por mês, com assistente de vendas por IA.
 - **Plataforma de e-commerce multiloja** em NestJS, Next.js e Astro, com Pix, webhooks idempotentes, isolamento de dados por loja coberto por testes e deploy contínuo com imagens Docker multi-arquitetura.
 - **Ferramentas com IA aplicada**: agentes, RAG com busca híbrida (vetor e texto), servidores MCP e auditoria de cada execução.
