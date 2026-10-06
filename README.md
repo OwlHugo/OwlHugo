@@ -13,7 +13,7 @@ Construo e mantenho sistemas que rodam a operação de empresas: ERP, e-commerce
 - **Plataforma de e-commerce multiloja** em NestJS, Next.js e Astro, com Pix, webhooks idempotentes, isolamento de dados por loja coberto por testes e deploy contínuo com imagens Docker multi-arquitetura.
 - **Ferramentas com IA aplicada**: agentes, RAG com busca híbrida (vetor e texto), servidores MCP e auditoria de cada execução.
 - **Apps em React Native/Expo** para clientes e para entregadores em campo, com localização em tempo real e funcionamento sem internet.
-- **Integrações** com ERPs, WhatsApp, Pix e assinatura eletrônica.
+- **Integrações** com ERPs (TOTVS Protheus, SAP Business One, Bling), pagamentos (Pix, Asaas, Cielo, Rede, PagBank com split), frete (Melhor Envio, Correios), marketplaces (Mercado Livre, Shopee), WhatsApp e LLMs (OpenAI, Anthropic).
 
 Esses sistemas são de clientes e empregadores, por isso o código fica em repositórios privados.
 
