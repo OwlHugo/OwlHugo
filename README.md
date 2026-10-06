@@ -6,7 +6,7 @@ Construo e mantenho sistemas que rodam a operação de empresas: ERP, e-commerce
 
 [LinkedIn](https://www.linkedin.com/in/hugo-oliveira-07b46321b/) · [E-mail](mailto:hugoadrianodeoliveira@gmail.com)
 
-## O que já coloquei em produção
+## O que já construí
 
 - **ERP multi-tenant** criado do zero em Laravel 12 e PostgreSQL 16, com um banco por empresa e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
 - **Loja online que construí e opero sozinho**, integrada ao ERP do cliente: 3,6 mil pedidos em 10 meses, de 117 no primeiro mês para mais de 400 por mês, com assistente de vendas por IA.
