@@ -1,41 +1,21 @@
-# Hugo Adriano de Oliveira
+# Hugo Oliveira
 
-Desenvolvedor Full Stack Sênior · PHP/Laravel · React · TypeScript · Node.js · PostgreSQL
+Desenvolvedor full stack. PHP/Laravel, TypeScript/Node e React, desde 2022.
 
-Construo e mantenho sistemas que rodam a operação de empresas: ERP, e-commerce, sistemas acadêmicos e plataformas de atendimento. Moro em Rondonópolis (MT) e trabalho remoto.
+Construo e mantenho sistemas que rodam a operação de empresas: ERP com emissão fiscal, e-commerce em produção, integrações e produtos com IA. Trabalho remoto, de Mato Grosso.
 
-[LinkedIn](https://www.linkedin.com/in/hugo-oliveira-07b46321b/) · [E-mail](mailto:hugoadrianodeoliveira@gmail.com)
+[Portfólio](https://hugo.noctratech.com.br) · [LinkedIn](https://www.linkedin.com/in/hugo-oliveira-07b46321b/) · [E-mail](mailto:hugoadrianodeoliveira@gmail.com)
 
-## O que já construí
+## Open source
 
-- **ERP multi-tenant** criado do zero em Laravel 12 e PostgreSQL 16, com um banco por empresa e emissão de **NFS-e Nacional** com XML assinado e certificado A1.
-- **Loja online que construí e opero sozinho**, integrada ao ERP do cliente: 3,6 mil pedidos em 10 meses, de 117 no primeiro mês para mais de 400 por mês, com assistente de vendas por IA.
-- **Plataforma de e-commerce multiloja** em NestJS, Next.js e Astro, com Pix, webhooks idempotentes, isolamento de dados por loja coberto por testes e deploy contínuo com imagens Docker multi-arquitetura.
-- **Canal de ouvidoria e denúncias** (Lei 14.457/2022) com relato anônimo por protocolo e senha, prazos em dias úteis, perfis de acesso e anonimização pela LGPD, e análise por IA que confronta o PGR (NR-1) com os dados reais da empresa.
-- **Ferramentas com IA aplicada**: agentes, RAG com busca híbrida (vetor e texto), servidores MCP e auditoria de cada execução.
-- **Apps em React Native/Expo** para clientes e para entregadores em campo, com localização em tempo real e funcionamento sem internet.
-- **Integrações** com ERPs (TOTVS Protheus, SAP Business One, Bling), pagamentos (Pix, Asaas, Cielo, Rede, PagBank com split), frete (Melhor Envio, Correios), marketplaces (Mercado Livre, Shopee), WhatsApp e LLMs (OpenAI, Anthropic).
+- **[Enquadra](https://github.com/OwlHugo/enquadra)**: classifica produtos nos códigos do IBS/CBS (reforma tributária) com o artigo de lei de cada decisão. As regras decidem, a IA só desempata, e um eval com casos rotulados bloqueia regressão no CI. TypeScript, MCP.
+- **[Tacet](https://github.com/OwlHugo/tacet)**: transcreve reuniões e gera a ata sem sair do computador (whisper.cpp + LLM local). Cada decisão precisa citar a linha da transcrição que a sustenta. Electron, TypeScript.
+- **[Cashier PIX](https://github.com/cashier-pix/cashier-pix)**: pacote Laravel para cobrança recorrente via PIX Automático, no estilo do Laravel Cashier. Publicado no Packagist.
 
-Esses sistemas são de clientes e empregadores, por isso o código fica em repositórios privados.
+## Trabalho (código privado)
 
-## Stack
+- Loja online em produção com mais de 3,6 mil pedidos, integrada ao ERP do cliente, e a plataforma multiloja que nasceu dela.
+- ERP multi-tenant com emissão de NF-e, NFC-e e NFS-e Nacional.
+- Sistemas acadêmicos e corporativos em Laravel, integrações com ERPs, pagamentos e WhatsApp, e apps em React Native.
 
-| Área | Tecnologias |
-|---|---|
-| Back-end | PHP 8, Laravel, Livewire, Node.js, NestJS, Fastify, Express |
-| Front-end | React, Next.js, Inertia.js, TypeScript, Tailwind CSS, Astro |
-| Mobile | React Native, Expo |
-| Dados | PostgreSQL, SQL Server, MySQL, Redis, BullMQ |
-| Qualidade | PHPUnit, Pest, PHPStan, Jest, Vitest, Playwright |
-| Infra | Docker, GitHub Actions, Nginx, Linux, AWS |
-
-## Projetos públicos
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| [real-time-auction](https://github.com/OwlHugo/real-time-auction) | Leilão em tempo real com lances concorrentes, controle otimista de concorrência, idempotência e encerramento assíncrono | .NET, SignalR, RabbitMQ, PostgreSQL, Angular |
-| [pokerogue-tier-overlay](https://github.com/OwlHugo/pokerogue-tier-overlay) | Extensão que mostra dentro do jogo o melhor tier competitivo de cada Pokémon, com testes e CI | TypeScript, Vitest |
-
-## Formação
-
-Sistemas de Informação na Universidade Federal de Rondonópolis (UFR), em andamento.
+Detalhes e o que cada projeto resolve estão no [portfólio](https://hugo.noctratech.com.br/projetos).
