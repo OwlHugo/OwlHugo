@@ -10,7 +10,6 @@ Construo e mantenho sistemas que rodam a operação de empresas: ERP com emissã
 
 - **[Enquadra](https://github.com/OwlHugo/enquadra)**: classifica produtos nos códigos do IBS/CBS (reforma tributária) com o artigo de lei de cada decisão. As regras decidem, a IA só desempata, e um eval com casos rotulados bloqueia regressão no CI. TypeScript, MCP.
 - **[Tacet](https://github.com/OwlHugo/tacet)**: transcreve reuniões e gera a ata sem sair do computador (whisper.cpp + LLM local). Cada decisão precisa citar a linha da transcrição que a sustenta. Electron, TypeScript.
-- **[Cashier PIX](https://github.com/cashier-pix/cashier-pix)**: pacote Laravel para cobrança recorrente via PIX Automático, no estilo do Laravel Cashier. Publicado no Packagist.
 
 ## Trabalho (código privado)
 
